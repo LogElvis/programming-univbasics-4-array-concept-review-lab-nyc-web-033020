@@ -18,6 +18,7 @@ def find_max_value(array)
     end
     counter += 1
   end
+  return max
 end
 
 def find_min_value(array)
